@@ -1,0 +1,13 @@
+{
+  "name": "tvgram-android",
+  "version": "1.0.0",
+  "description": "Android TV Telegram application - build wrapper",
+  "scripts": {
+    "dev": "echo 'This is an Android project. Use Android Studio or ./gradlew to build and run the application.'",
+    "build": "echo 'This is an Android project. Use ./gradlew assembleDebug to build.'",
+    "start": "echo 'This is an Android project. Deploy to Android TV device or emulator using Android Studio.'"
+  },
+  "keywords": ["android", "tv", "telegram"],
+  "author": "Vitaliy Zarubin",
+  "license": "Apache-2.0"
+}
